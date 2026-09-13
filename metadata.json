@@ -1,0 +1,6 @@
+{
+  "name": "Miceal Akinwonmi - Developer Website",
+  "description": "Official developer website and contact page for Miceal Akinwonmi on Google Play Console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
